@@ -181,7 +181,7 @@ let SessionId_P =
     |>> SessionId
     <?> "SessionId"
 
-run SessionId_P """k70fvwnubfoiyzyhA0oE,98.173.13.34,,https://choptsalad20170526.restaurant365.net/Pilot/R365/r365App/,"{Connection:keep-alive,Accept:""application/json, text/plain, */*"",Accept-Encoding:""gzip, deflate, br"",Accept-Language:""en-US,en;q=0.8"",Cookie:ss-pid=ZKvATkDFpdTUQrfFm6JO; ss-opt=temp; X-UAId=,Host:choptsalad20170526.restaurant365.net,Referer:""https://choptsalad20170526.restaurant365.net/Pilot/R365/r365App/"",User-Agent:""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36""}",{},"{AspSessionIDManagerInitializeRequestCalled:True,__route:ServiceStack.Host.RestPath,ss-id:k70fvwnubfoiyzyhA0oE,_requestDurationStopwatch:System.Diagnostics.Stopwatch}",,,,PT0.066026S"""
+
 // ======================================
 // Parsing IPAddr
 // ====================================== 
